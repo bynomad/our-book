@@ -4,6 +4,6 @@
 
 <templates:app>
     <jsp:body>
-        Selam gençler naber
+        Selam gençler ne zaman kitap yazıyoz?
     </jsp:body>
 </templates:app>
