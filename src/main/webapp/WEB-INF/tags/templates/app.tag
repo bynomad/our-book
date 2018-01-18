@@ -10,7 +10,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Felippe Rodrigo Puhle | App</title>
+    <title>bynomad book page</title>
 
     <jsp:invoke fragment="css" />
 </head>
