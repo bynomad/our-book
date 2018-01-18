@@ -12,7 +12,7 @@ public class ViewConfig {
         InternalResourceViewResolver resolver = new InternalResourceViewResolver();
         resolver.setPrefix("/WEB-INF/jsp/");
         resolver.setSuffix(".jsp");
-
+        System.out.println("config created");
         return resolver;
     }
 }
