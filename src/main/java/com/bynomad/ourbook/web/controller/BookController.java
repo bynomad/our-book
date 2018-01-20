@@ -11,7 +11,9 @@ public class BookController {
 
     @RequestMapping(method = RequestMethod.GET)
     public ModelAndView index() {
-        ModelAndView modelAndView = new ModelAndView("app/index"); 
+        ModelAndView modelAndView = new ModelAndView("app/index");
+        // comment
+        // denemeAtom
         return modelAndView;
     }
 }
